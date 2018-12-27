@@ -72,6 +72,8 @@ Odd and Even
 Identity Odd and even numbers from given array
 odd([4,5,6,7,8]);
 //=>[5,7]
+even([4,5,6,7,8]);
+//=>[4,6,8]
 
 Max min Numer
 Identity max-min numbers from given array
